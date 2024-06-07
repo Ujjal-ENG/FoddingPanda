@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9de8a8-f420-4f6d-8d88-515400d880d1" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/servers/apps/users/src/dto/user.dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servers/apps/users/src/user.resolver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servers/apps/users/src/types/user.types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/apps/gateway/src/app.controller.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/apps/gateway/src/app.controller.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/apps/gateway/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/gateway/src/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/apps/gateway/src/app.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/gateway/src/app.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/apps/gateway/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/gateway/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/apps/users/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/users/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/apps/users/src/users.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/users/src/users.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/apps/users/src/users.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/users/src/users.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/apps/users/src/entites/user.entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/users/src/entites/user.entity.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/servers/apps/users/src/users.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/users/src/users.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/servers/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servers/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/servers/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +75,7 @@
       <workItem from="1717698434314" duration="297000" />
       <workItem from="1717756032141" duration="2103000" />
       <workItem from="1717761380464" duration="77000" />
-      <workItem from="1717761653936" duration="2065000" />
+      <workItem from="1717761653936" duration="3649000" />
     </task>
     <task id="LOCAL-00001" summary="added">
       <option name="closed" value="true" />

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d9de8a8-f420-4f6d-8d88-515400d880d1" name="Changes" comment="added">
+      <change afterPath="$PROJECT_DIR$/servers/nest-cli.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/servers/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/servers/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/servers/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/servers/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/nest-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/servers/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/src/app.controller.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/src/app.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/src/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/src/app.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/test/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/test/jest-e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/tsconfig.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/servers/tsconfig.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/servers/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/gateway/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/servers/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hSoHN7fclnhJWW8uOAOFAkw5lQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Food-Delivery-App&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Food-Delivery-App\servers" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d9de8a8-f420-4f6d-8d88-515400d880d1" name="Changes" comment="" />
+      <created>1717596750881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717596750881</updated>
+      <workItem from="1717596751953" duration="2384000" />
+      <workItem from="1717608468631" duration="341000" />
+      <workItem from="1717610274426" duration="6000" />
+      <workItem from="1717698362333" duration="47000" />
+      <workItem from="1717698434314" duration="297000" />
+    </task>
+    <task id="LOCAL-00001" summary="added">
+      <option name="closed" value="true" />
+      <created>1717599267613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717599267613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
+  </component>
+</project>

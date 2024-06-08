@@ -15,7 +15,7 @@ export class RegisterDto {
 
   @Field()
   @IsNotEmpty({ message: 'Email is Required' })
-  @IsEmail({ message: 'Email must be a valid email address' })
+  @IsEmail()
   email: string;
 }
 
@@ -23,7 +23,7 @@ export class RegisterDto {
 export class LoginDto {
   @Field()
   @IsNotEmpty({ message: 'Email is Required' })
-  @IsEmail({ message: 'Email must be a valid email address' })
+  @IsEmail()
   email: string;
 
   @Field()

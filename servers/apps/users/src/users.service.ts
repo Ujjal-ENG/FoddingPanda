@@ -3,6 +3,7 @@ import { JwtService } from '@nestjs/jwt';
 import { ConfigService } from '@nestjs/config';
 import { LoginDto, RegisterDto } from './dto/user.dto';
 import { PrismaService } from '../../../prisma/Prisma.service';
+import { Response } from 'express';
 
 @Injectable()
 export class UsersService {
@@ -14,10 +15,17 @@ export class UsersService {
 
   //   register user service
 
-  async register(registerDto: RegisterDto) {
+  async register(registerDto: RegisterDto, response: Response) {
     const { name, email, password } = registerDto;
 
-    return { name, email, password };
+    const user = await this.prisma.user.create({
+      data: {
+        name,
+        email,
+        password,
+      },
+    });
+    return { user, response };
   }
 
   //   login user service

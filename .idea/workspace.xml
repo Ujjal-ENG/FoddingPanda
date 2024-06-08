@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9de8a8-f420-4f6d-8d88-515400d880d1" name="Changes" comment="added">
+      <change afterPath="$PROJECT_DIR$/servers/prisma/Prisma.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/apps/users/src/user.resolver.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/users/src/user.resolver.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/apps/users/src/users.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/servers/apps/users/src/users.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +24,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2hSoHN7fclnhJWW8uOAOFAkw5lQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -73,7 +78,7 @@
       <workItem from="1717756032141" duration="2103000" />
       <workItem from="1717761380464" duration="77000" />
       <workItem from="1717761653936" duration="9032000" />
-      <workItem from="1717863121974" duration="1508000" />
+      <workItem from="1717863121974" duration="1838000" />
     </task>
     <task id="LOCAL-00001" summary="added">
       <option name="closed" value="true" />

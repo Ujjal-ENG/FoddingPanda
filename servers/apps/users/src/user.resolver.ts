@@ -8,6 +8,7 @@ import { Response } from 'express';
 @Resolver('User')
 export class UserResolver {
   constructor(private readonly userServices: UsersService) {}
+
   @Mutation(() => RegisterResponse)
   async register(
     @Args('registerDto') registerDto: RegisterDto,
@@ -22,6 +23,7 @@ export class UserResolver {
     );
     return { user };
   }
+
   @Query(() => [User])
   async getAllUsers() {
     return this.userServices.getAllUsers();

@@ -18,7 +18,7 @@ enum Role {
   User
 }
 
-model Avatars {
+model Avatar {
   id        String @id @default(auto()) @map("_id") @db.ObjectId
   public_id String
   url       String
@@ -31,7 +31,7 @@ model User {
   name      String
   email     String
   password  String
-  avatar    Avatars?
+  avatars   Avatar?
   role      Role     @default(User)
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
